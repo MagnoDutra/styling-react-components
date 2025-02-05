@@ -15,4 +15,4 @@ const Button = styled.button`
   }
 `;
 
-export default button;
+export default Button;
